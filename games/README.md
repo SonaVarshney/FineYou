@@ -1,16 +1,9 @@
-# games
 
-A new Flutter project.
+This app is designed to increase awareness about depression, its symptoms, and how to cope. It contains two games and a to-do list planner to assist people battling depression. The app's planner is intended to aid individuals with depression in planning their day more effectively and keeping them motivated as they complete tasks. By breaking down the day's responsibilities into smaller, manageable steps, the planner helps users avoid feeling overwhelmed, allowing them to stay focused and productive. The app also offers two games - Wordle and Memory Game - to help users take their minds off negative thoughts and relax. These games can be an effective way to combat stress and anxiety associated with depression. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/99477385/222423504-6aa83e87-222a-4293-9e3a-47adb08f9da5.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
